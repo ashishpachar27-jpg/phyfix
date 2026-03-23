@@ -1,0 +1,200 @@
+You are a senior full-stack developer, SEO strategist, and UX designer.
+
+Your task is to analyze and completely upgrade my website https://phyfix.com into a highly optimized, professional tutoring platform that ranks on Google and converts visitors into students.
+
+========================
+
+1. CONTEXT & GOAL
+   ========================
+
+Website Name: Phyfix
+Industry: Online Tutoring (Physics, Mathematics, and other subjects)
+Target Audience:
+
+* Students (IB, IGCSE, A-Level, CBSE, AP)
+* Parents looking for tutors
+* International students
+
+Main Goal:
+
+* Make "Phyfix" appear on Google when someone searches "Phyfix"
+* Rank for keywords like:
+
+  * IB Physics tutor
+  * IGCSE Math tutor
+  * A Level Physics tutor
+  * Online Math tutor
+* Convert visitors into demo bookings
+
+========================
+2. TECHNICAL SEO REQUIREMENTS
+=============================
+
+Implement the following:
+
+1. Add proper meta tags on every page:
+
+* Unique title (max 60 chars)
+* Meta description (150–160 chars)
+* Keywords (relevant to tutoring)
+
+2. Add Open Graph + social sharing tags
+
+3. Create and include:
+
+* sitemap.xml
+* robots.txt
+
+4. Add structured data (JSON-LD):
+
+* type: EducationalOrganization
+* include name, logo, sameAs (social links)
+
+5. Ensure:
+
+* Mobile responsiveness
+* Fast loading (optimize images, lazy loading)
+* Clean URL structure
+
+========================
+3. WEBSITE STRUCTURE (CREATE THESE PAGES)
+=========================================
+
+Home
+About
+Courses
+Physics Tutoring
+Math Tutoring
+IB Tutoring
+IGCSE Tutoring
+A-Level Tutoring
+Blog
+Contact
+Book Free Demo
+
+Each page must be SEO optimized.
+
+========================
+4. HOMEPAGE DESIGN (HIGH CONVERSION)
+====================================
+
+Create a modern, clean homepage with:
+
+1. Hero Section:
+
+* Headline: “Master Physics & Mathematics with Expert Tutors”
+* Subtext: “IB | IGCSE | A-Level | CBSE | AP”
+* CTA button: “Book Free Demo”
+
+2. Trust Section:
+
+* Student testimonials
+* Ratings (5 stars)
+* “500+ classes delivered” (or placeholder)
+
+3. Services Section:
+
+* Physics tutoring
+* Math tutoring
+* Exam preparation
+
+4. Why Choose Phyfix:
+
+* 1-to-1 sessions
+* Personalized learning
+* Experienced tutor
+
+5. Call to Action again:
+
+* “Start your free demo today”
+
+========================
+5. BLOG SYSTEM (VERY IMPORTANT FOR SEO)
+=======================================
+
+Create a blog section with at least 10 sample articles:
+
+Examples:
+
+* How to study IB Physics effectively
+* Top mistakes in IGCSE Math
+* A-Level Physics revision strategy
+* Best way to score in Physics exams
+
+Each blog must:
+
+* Be 1000+ words
+* Include headings (H1, H2, H3)
+* Include internal links
+
+========================
+6. SEO CONTENT STRATEGY
+=======================
+
+Create landing pages targeting keywords:
+
+/ib-physics-tutor
+/igcse-math-tutor
+/a-level-physics-tutor
+/online-math-tutor
+
+Each page should:
+
+* Explain services
+* Include keywords naturally
+* Include CTA
+
+========================
+7. CONVERSION OPTIMIZATION
+==========================
+
+Add:
+
+* WhatsApp button
+* Sticky “Book Demo” button
+* Contact form (name, email, class, subject)
+* Calendly or booking integration (if possible)
+
+========================
+8. BRAND BUILDING
+=================
+
+Ensure “Phyfix” appears clearly:
+
+* In title tags
+* In headings
+* In footer
+* In logo
+
+========================
+9. INTERNAL LINKING
+===================
+
+* Link blogs → services
+* Link services → booking page
+* Improve navigation
+
+========================
+10. FINAL OUTPUT
+================
+
+Provide:
+
+1. Full updated website code (HTML/CSS/JS or framework used)
+2. SEO optimized pages
+3. Sample blog content
+4. Sitemap.xml
+5. robots.txt
+6. Structured data implementation
+
+========================
+IMPORTANT
+=========
+
+* Make the design modern and minimal
+* Use clean UI (similar to top tutoring platforms)
+* Optimize for Google ranking
+* Focus on both SEO + conversions
+
+Final goal:
+When someone searches “Phyfix”, this website should appear and attract students and parents to book classes.

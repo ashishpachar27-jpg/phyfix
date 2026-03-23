@@ -1,0 +1,97 @@
+You are an expert full-stack developer and SEO specialist.
+
+Goal:
+Fix the issue where the website logo is NOT दिखाई (visible) in Google search results and browser tabs. Ensure the logo appears correctly across:
+- Google Search (favicon + logo)
+- Browser tabs
+- Mobile devices
+- Social previews
+
+Website:
+https://phyfix.com
+
+Tasks to perform:
+
+1. FAVICON SETUP (CRITICAL)
+- Add favicon files in multiple sizes:
+  - /favicon.ico
+  - /favicon-16x16.png
+  - /favicon-32x32.png
+  - /apple-touch-icon.png (180x180)
+- Ensure all are placed in root directory.
+
+- Add this inside <head>:
+
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+2. LOGO OPTIMIZATION
+- Use a clean, square logo (minimum 512x512 px)
+- Format: PNG with transparent background
+- Name: /logo.png
+
+- Add inside header:
+
+<img src="/logo.png" alt="Phyfix Logo" width="120" height="120" />
+
+3. STRUCTURED DATA (VERY IMPORTANT FOR GOOGLE LOGO)
+- Add JSON-LD inside <head>:
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Phyfix",
+  "url": "https://phyfix.com",
+  "logo": "https://phyfix.com/logo.png"
+}
+</script>
+
+4. OPEN GRAPH (SOCIAL + GOOGLE PREVIEW)
+Add:
+
+<meta property="og:title" content="Phyfix - Learn Physics, Math & More">
+<meta property="og:description" content="Professional tutoring in Physics, Mathematics and 20+ subjects">
+<meta property="og:image" content="https://phyfix.com/logo.png">
+<meta property="og:url" content="https://phyfix.com">
+
+5. TWITTER CARD
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://phyfix.com/logo.png">
+
+6. SITEMAP + ROBOTS
+- Ensure sitemap.xml exists
+- Add logo reference in sitemap if possible
+- robots.txt should allow all
+
+User-agent: *
+Allow: /
+
+Sitemap: https://phyfix.com/sitemap.xml
+
+7. GOOGLE SEARCH CONSOLE
+- Verify domain
+- Submit sitemap
+- Request indexing of homepage
+
+8. DESIGN IMPROVEMENT (IMPORTANT)
+- Ensure logo has:
+  - High contrast (white background + dark logo OR vice versa)
+  - No blur
+  - Not too small
+- Add padding around logo so it doesn't look cramped
+
+9. FINAL CHECK
+- Test favicon:
+  https://www.google.com/s2/favicons?domain=phyfix.com
+
+- Validate structured data:
+  https://search.google.com/test/rich-results
+
+Expected Result:
+- Logo should appear in browser tab
+- Logo should appear in Google search results
+- Brand should look professional and clear

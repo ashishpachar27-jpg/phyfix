@@ -1,0 +1,56 @@
+Act as an Expert Full-Stack Web Developer and Technical SEO Specialist. >
+I need you to refactor and generate the core index.html structure for my website, Phyfix. I am a professional Physics and Mathematics tutor, and my primary goal is to achieve a perfect 100/100 Lighthouse SEO score and rank on the first page of Google for queries related to expert physics and math tutoring (AP, IB, IGCSE, JEE, and NEET).
+
+Please write a complete, production-ready HTML template that strictly follows these structural and SEO requirements:
+
+1. Semantic HTML5 Architecture:
+
+Use proper semantic tags (<header>, <nav>, <main>, <section>, <article>, <aside>, <footer>) instead of generic <div> containers.
+
+Implement a strict heading hierarchy. Use exactly one <h1> tag optimized for my primary keywords (e.g., "Expert Physics & Mathematics Tutoring | Phyfix"), logically followed by <h2> and <h3> tags for sub-sections (Courses, Worksheets, Masterclasses).
+
+2. Technical On-Page SEO & Meta Tags:
+
+Include a highly optimized <title> (under 60 characters).
+
+Include a compelling <meta name="description"> (under 160 characters) that acts as a strong call-to-action for students.
+
+Add a <link rel="canonical" href="https://phyfix.com"> tag to consolidate my domain authority and prevent duplicate content issues with my testing environments.
+
+Ensure standard mobile-responsive meta tags (viewport) and character set (UTF-8) are present.
+
+3. JSON-LD Schema Markup (Crucial for Google Rich Snippets):
+
+Write and embed complete JSON-LD script tags in the <head> for both Person (Ashish Pachar) and EducationalOrganization (Phyfix Academy).
+
+Highlight my expertise as a tutor and explicitly list my main domain (https://phyfix.com).
+
+4. Social Media & Open Graph Integration:
+
+Add complete Open Graph (og:) and Twitter Card meta tags so that when my website is shared on social media, it displays a professional title, description, and preview image.
+
+Build a professional Footer section that embeds all of my official ecosystem links using SEO-friendly anchor tags with target="_blank" and rel="noopener noreferrer". Integrate the following links:
+
+Main Website: https://phyfix.com
+
+Free Demo Classes: https://freedemoclasses.netlify.app
+
+YouTube: https://www.youtube.com/@phyfix
+
+Instagram: https://instagram.com/phyfix1
+
+X: https://x.com/Phyfix11
+
+Facebook: https://facebook.com/people/Phyfix/61586678414108
+
+LinkedIn: https://linkedin.com/company/111519508
+
+Reddit: https://reddit.com/r/Phyfix
+
+5. Accessibility & Performance Core Web Vitals:
+
+Ensure every single <img> tag included has descriptive, keyword-rich alt text.
+
+Structure the <head> so that CSS loads efficiently and any JavaScript is deferred to ensure maximum page speed.
+
+Please generate the fully optimized HTML code now.

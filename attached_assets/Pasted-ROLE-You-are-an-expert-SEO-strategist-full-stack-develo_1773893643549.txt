@@ -1,0 +1,184 @@
+ROLE: You are an expert SEO strategist, full-stack developer, and education business consultant.
+
+OBJECTIVE:
+Transform my website (https://phyfix.com) into a globally optimized tutoring platform that ranks for the top 20 most in-demand tutoring subjects, while maintaining a premium, professional brand identity.
+
+PRIMARY GOAL:
+Increase organic search visibility across Google and Bing for high-demand tutoring subjects, and ensure each subject has a dedicated, SEO-optimized landing page.
+
+---
+
+STEP 1: SUBJECT EXPANSION STRUCTURE
+
+Create dedicated pages (or sections) for the following 20 subjects:
+
+1. Mathematics
+2. Physics
+3. Chemistry
+4. Biology
+5. English (Academic & ESL)
+6. Computer Science / Coding
+7. Data Science / AI
+8. Statistics
+9. Economics
+10. Business Studies
+11. Accounting
+12. SAT Preparation
+13. ACT Preparation
+14. GRE Preparation
+15. GMAT Preparation
+16. IELTS Preparation
+17. TOEFL Preparation
+18. Foreign Languages (Spanish/French/German)
+19. Engineering Subjects
+20. Olympiad / Advanced Problem Solving
+
+Each subject must have:
+
+* Dedicated SEO landing page (URL slug optimized)
+* 1000–1500 words of high-quality content
+* Clear sections: Overview, Topics Covered, Who It’s For, Curriculum (IB/IGCSE/AP), Benefits, FAQs
+* Strong call-to-action (Book Free Demo)
+
+---
+
+STEP 2: SEO OPTIMIZATION
+
+For EACH subject page:
+
+* Target keyword: “Online [Subject] Tutor”
+* Secondary keywords:
+
+  * “[Subject] tutoring for IB / IGCSE / A-Level”
+  * “Best [Subject] teacher online”
+  * “[Subject] classes for beginners to advanced”
+
+Add:
+
+* Meta title (60 characters max)
+* Meta description (150–160 characters)
+* H1, H2 structured headings
+* Internal linking across all subjects
+* FAQ schema (structured data)
+* Breadcrumb schema
+
+---
+
+STEP 3: HOMEPAGE RESTRUCTURING
+
+Update homepage to include:
+
+1. HERO SECTION:
+   “World-Class Tutoring in 20+ Subjects | IB, IGCSE, A-Level, AP”
+
+2. SUBJECT GRID:
+   Display all 20 subjects with icons and clickable links
+
+3. VALUE PROPOSITION:
+
+   * Personalized 1-on-1 classes
+   * International curriculum expertise
+   * Concept-focused learning
+
+4. TRUST ELEMENTS:
+
+   * Testimonials
+   * Results (if available)
+   * Demo class CTA
+
+---
+
+STEP 4: CONTENT MARKETING SYSTEM
+
+Create a blog section targeting long-tail SEO keywords:
+
+Examples:
+
+* “How to master IB Physics”
+* “Best way to learn calculus fast”
+* “Top strategies to crack SAT Math”
+* “How to improve English writing skills”
+
+Publish at least:
+
+* 2–3 articles per week
+* 800–1200 words each
+
+---
+
+STEP 5: TECHNICAL SEO IMPROVEMENTS
+
+* Improve page speed (lazy loading, image compression)
+* Mobile-first design optimization
+* Clean URL structure
+* XML sitemap submission
+* Robots.txt optimization
+* Add Google Search Console + Bing Webmaster tools
+* Use proper heading hierarchy (H1 → H2 → H3)
+
+---
+
+STEP 6: CONVERSION OPTIMIZATION
+
+* Add “Book Free Demo Class” buttons on every page
+* Add WhatsApp integration
+* Add sticky CTA on scroll
+* Add lead capture forms (name, grade, subject)
+
+---
+
+STEP 7: GLOBAL TARGETING
+
+* Optimize for countries:
+  USA, UK, Canada, UAE, India
+* Use keywords like:
+  “Online tutor USA”, “IB tutor UK”, etc.
+* Add location-based landing pages if possible
+
+---
+
+STEP 8: BRAND POSITIONING
+
+Ensure messaging reflects:
+
+* Premium tutoring
+* Concept clarity (not rote learning)
+* Physics + Math expertise (core strength)
+* Expansion into full STEM + academic support
+
+---
+
+STEP 9: INTERNAL LINKING STRATEGY
+
+* Each subject page must link to:
+
+  * Related subjects (e.g., Physics → Math)
+  * Blog posts
+  * Homepage
+* Use anchor text with keywords
+
+---
+
+STEP 10: PERFORMANCE TRACKING
+
+Set up:
+
+* Google Analytics
+* Search Console
+* Track:
+
+  * Organic traffic
+  * Keyword rankings
+  * Conversion rate
+
+---
+
+OUTPUT FORMAT:
+
+* Provide full website structure (pages + URLs)
+* Provide SEO content for at least 3 subjects as examples
+* Provide homepage rewritten content
+* Provide blog topic list (50+ ideas)
+* Provide technical checklist
+
+Ensure the output is production-ready and professional.

@@ -1,0 +1,105 @@
+You are an expert full-stack developer and SEO specialist.
+
+Task:
+Analyze and optimize my website "https://phyfix.com" for search engine ranking on Google and Bing. The goal is to make the website rank #1 when users search for "PhyFix" and improve rankings for keywords related to online physics and mathematics classes.
+
+Objectives:
+
+1. Improve on-page SEO
+2. Improve technical SEO
+3. Improve site structure
+4. Add high-ranking content
+5. Ensure fast indexing and visibility
+
+Instructions:
+
+1. HOMEPAGE OPTIMIZATION
+
+* Rewrite title tag with strong keywords: PhyFix, Physics Classes, Maths Classes
+* Add optimized meta description (150–160 characters)
+* Ensure a single H1 with primary keyword
+* Add H2 and H3 headings for structure
+* Improve keyword placement naturally
+
+2. SITE STRUCTURE
+   Create the following pages if missing:
+
+* /physics-classes
+* /maths-classes
+* /ib-physics
+* /cbse-maths
+* /free-demo
+* /contact
+* /about
+* /blog
+
+Each page must:
+
+* Have unique title and description
+* Target specific keywords
+* Include internal linking
+
+3. BLOG SYSTEM
+   Create a blog section and generate 5 SEO-optimized articles:
+
+* Best way to learn physics fast
+* How to score high in maths exams
+* IB Physics preparation strategy
+* CBSE Physics important questions
+* Common mistakes in maths students make
+
+Each article should:
+
+* Be 800–1200 words
+* Include headings (H1, H2, H3)
+* Use keywords naturally
+* Include call-to-action for PhyFix
+
+4. TECHNICAL SEO
+
+* Generate sitemap.xml automatically
+* Generate robots.txt
+* Add canonical tags
+* Ensure mobile responsiveness
+* Optimize page speed
+* Add alt text to all images
+
+5. STRUCTURED DATA
+   Add schema markup:
+
+* Organization schema (PhyFix)
+* Educational service schema
+* FAQ schema for homepage
+
+6. INDEXING SETUP
+
+* Add Google Search Console verification meta tag placeholder
+* Add Bing verification meta tag placeholder
+
+7. INTERNAL LINKING
+
+* Link all pages logically
+* Add navigation menu improvements
+* Add footer with important links
+
+8. PERFORMANCE
+
+* Compress images
+* Minify CSS and JS
+* Lazy load images
+
+9. UX IMPROVEMENT
+
+* Add clear CTA buttons: "Book Free Demo"
+* Improve readability
+* Improve layout spacing
+
+10. OUTPUT FORMAT
+
+* Provide full updated HTML/CSS/JS code
+* Provide sitemap.xml
+* Provide robots.txt
+* Provide blog content
+
+Goal:
+Make the website SEO-optimized, structured, fast, and ready to rank on Google and Bing.

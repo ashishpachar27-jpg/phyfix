@@ -1,0 +1,148 @@
+ROLE
+You are an expert full-stack web developer, SEO specialist, and educational platform designer.
+
+TASK
+Analyze the website **https://phyfix.com** and improve the platform by designing and implementing a **comprehensive “Resources” section** for students. The resources must be organized according to the educational boards currently supported on the website.
+
+OBJECTIVES
+
+1. Identify all the **education boards currently taught on the website** (for example: CBSE, ICSE, IGCSE, IB, Cambridge, ISC, etc.).
+2. For each board, collect and organize **reliable academic resources** from official and trusted sources.
+
+RESOURCE TYPES TO INCLUDE
+For each board and subject, include the following categories:
+
+1. **Official Board Websites**
+
+   * Official curriculum pages
+   * Official syllabus documents
+   * Official exam guidelines
+
+2. **Past Papers**
+
+   * Year-wise past papers
+   * Topic-wise question banks
+   * Marking schemes
+   * Examiner reports if available
+
+3. **Syllabus Section**
+
+   * Complete syllabus for each class
+   * Downloadable PDF format
+   * Structured by subject and grade
+
+4. **Study Resources**
+
+   * Topic-wise notes
+   * Practice worksheets
+   * Sample papers
+   * Formula sheets
+   * Revision guides
+
+5. **External Learning Platforms**
+
+   * Trusted educational resources
+   * Free study materials
+   * Open educational platforms
+
+NEW SUBJECTS TO ADD
+The website currently focuses mainly on science and mathematics. Expand the platform to include:
+
+1. **Commerce Stream**
+
+   * Accountancy
+   * Business Studies
+   * Economics
+
+2. **Computer Science**
+
+   * Programming basics
+   * Python resources
+   * Data structures basics
+   * Board-specific CS syllabus and papers
+
+WEBSITE FEATURE REQUIREMENTS
+
+Create a **new main navigation menu item called “Resources”** that includes:
+
+Resources
+├── Boards
+│   ├── CBSE
+│   ├── ICSE
+│   ├── IB
+│   ├── IGCSE
+│   ├── Cambridge
+│   └── ISC
+│
+├── Subjects
+│   ├── Physics
+│   ├── Mathematics
+│   ├── Chemistry
+│   ├── Biology
+│   ├── Computer Science
+│   └── Commerce
+│
+├── Past Papers
+├── Syllabus
+├── Topic-Wise Questions
+├── Formula Sheets
+└── Free Study Materials
+
+FUNCTIONALITY REQUIREMENTS
+
+1. Students must be able to:
+
+   * Download past papers
+   * View syllabus
+   * Access topic-wise questions
+   * Download worksheets
+   * Access official board links
+
+2. Each board page should contain:
+
+   * Official syllabus links
+   * Past papers
+   * Marking schemes
+   * Topic-wise practice questions
+
+3. Add **search and filter functionality**
+
+   * Filter by board
+   * Filter by subject
+   * Filter by year
+   * Filter by topic
+
+4. Add **SEO optimization**
+
+   * Structured schema for educational resources
+   * Keyword optimization for past papers and syllabus searches
+   * Proper meta tags
+
+UI DESIGN REQUIREMENTS
+
+The resources section should be:
+
+* Clean and modern
+* Easy to navigate
+* Organized by board → subject → resource type
+* Mobile responsive
+* Fast loading
+
+Use **cards or tiles** for each resource category.
+
+EXTRA FEATURES
+
+1. Add a **“Free Resources for Students” landing page**.
+2. Provide **direct PDF download buttons**.
+3. Include **links to official board websites**.
+4. Add **featured study materials curated by PhyFix**.
+5. Add a **latest papers and syllabus updates section**.
+
+OUTPUT EXPECTED
+
+Provide:
+
+1. The full **site structure for the Resources section**
+2. The **UI layout suggestions**
+3. The **list of recommended official and trusted educational resource websites for each board**
+4. The **implementation plan for integrating this into the existing PhyFix website**.

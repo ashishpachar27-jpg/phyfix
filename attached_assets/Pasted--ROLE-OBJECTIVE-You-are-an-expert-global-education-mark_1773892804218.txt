@@ -1,0 +1,117 @@
+**ROLE & OBJECTIVE**
+You are an expert global education market analyst and data researcher. Your task is to conduct a deep, data-driven analysis of the most in-demand tutoring subjects worldwide.
+
+---
+
+**TASK**
+Identify and analyze the **Top 20 most demanded tutoring subjects globally (2024–2026)** and provide a complete research report.
+
+---
+
+**OUTPUT REQUIREMENTS**
+
+### 1. GLOBAL RANKING (Top 20 Subjects)
+
+* Provide a ranked list of the **Top 20 most demanded tutoring subjects worldwide**
+* Include:
+
+  * Demand percentage (market share or estimated demand weight)
+  * Growth rate (if available)
+  * Region-wise demand (US, Europe, India, Asia-Pacific, etc.)
+  * Difficulty level (Low / Medium / High)
+  * Monetization potential (Low / Medium / High)
+
+---
+
+### 2. CATEGORY-WISE BREAKDOWN
+
+Group subjects into categories:
+
+* STEM (Math, Physics, Coding, etc.)
+* Languages (English, Spanish, etc.)
+* Test Prep (SAT, GRE, IELTS, etc.)
+* Professional Skills (Finance, Data Science, etc.)
+* Creative & Others
+
+For each category:
+
+* % contribution to total tutoring demand
+* Key drivers of demand
+
+---
+
+### 3. DATA ANALYSIS (WITH NUMBERS)
+
+Provide:
+
+* Market share distribution (in %)
+* Growth trends (CAGR if available)
+* Demand comparison chart (Top 10 vs Bottom 10)
+* Historical vs future demand trends
+
+---
+
+### 4. VISUAL STRUCTURES (IMPORTANT)
+
+Create:
+
+* Flowchart: “Why a subject becomes high-demand”
+* Bar chart (text-based): Top 20 subject demand
+* Pie chart (text-based): Category-wise demand
+* Trend graph (text-based): Demand growth over time
+
+---
+
+### 5. DEEP INSIGHTS
+
+Explain:
+
+* Why STEM dominates tutoring demand
+* Why math & coding are always #1
+* Why language learning demand is rising globally
+* Impact of AI and job market on tutoring demand
+* Future prediction (next 5–10 years)
+
+---
+
+### 6. BUSINESS APPLICATION (VERY IMPORTANT)
+
+For each subject include:
+
+* Target students (school / college / professionals)
+* Best platforms to teach
+* Average earning potential (per hour globally)
+* Competition level
+
+---
+
+### 7. FINAL OUTPUT FORMAT
+
+* Structured report
+* Tables + charts + bullet points
+* Clear headings
+* No fluff, only data-driven insights
+
+---
+
+**CONSTRAINTS**
+
+* Use latest available global data (2024–2026)
+* Provide realistic estimates where exact data is unavailable
+* Avoid vague statements; quantify wherever possible
+* Keep it analytical, not generic
+
+---
+
+**SUCCESS CRITERIA**
+The output should help a tutor:
+
+* Choose the most profitable subject
+* Understand global demand trends
+* Build a scalable tutoring business
+
+---
+
+**BONUS (if possible)**
+
+* Suggest Top 5 “hidden high-growth subjects” with low competition

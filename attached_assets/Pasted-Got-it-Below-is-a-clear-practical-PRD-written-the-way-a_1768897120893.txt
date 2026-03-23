@@ -1,0 +1,276 @@
+Got it. Below is a **clear, practical PRD** written the way a developer or product partner would actually use it. You can directly share this with anyone or use it yourself while building on Replit.
+
+---
+
+# **Product Requirements Document (PRD)**
+
+## **Teaching Platform for Math & Physics (Multi-Teacher Website)**
+
+---
+
+## **1. Product Overview**
+
+### **Product Name**
+
+(Working name) **PhyFix Teaching Platform**
+
+### **Purpose**
+
+To build a clean, minimal, professional teaching website focused on **Math and Physics**, where:
+
+* Multiple teachers (starting with ~20) can onboard
+* Each teacher manages their own profile
+* Students can clearly see who teaches which board and subject
+* Contact is quick via **WhatsApp** and **Email**
+
+The platform should feel **trustworthy, simple, and academic**, not flashy.
+
+---
+
+## **2. Target Users**
+
+### **Primary Users**
+
+1. **Students / Parents**
+
+   * Looking for Math or Physics teachers
+   * Prefer international boards
+   * Want quick contact and clear information
+
+2. **Teachers**
+
+   * Math / Physics teachers
+   * Teach one or more international boards
+   * Need control over their own profile
+
+### **Admin (You)**
+
+* Manage teachers
+* Approve profiles
+* Control global settings and contact details
+
+---
+
+## **3. Core Goals**
+
+1. Clean, distraction-free interface
+2. Clear visibility of:
+
+   * Boards taught
+   * Experience
+   * Charges
+3. Teacher self-management (edit profile, upload photo/video)
+4. Easy student contact (WhatsApp first)
+5. Scalable to more teachers later
+
+---
+
+## **4. Key Boards to Emphasize (Top Priority)**
+
+These must be **clearly visible at the top of teacher profiles**:
+
+* IB (MYP / DP)
+* IGCSE / Cambridge
+* CBSE / ICSE (optional but allowed)
+
+(You can visually tag these as badges)
+
+---
+
+## **5. Features (MVP Scope)**
+
+### **5.1 Homepage**
+
+**Purpose:** Quick clarity and trust
+
+**Must include:**
+
+* Short headline
+  *“Expert Math & Physics Teachers for International Boards”*
+* Sub-text explaining the platform in 1–2 lines
+* CTA buttons:
+
+  * “Find a Teacher”
+  * “Contact on WhatsApp”
+* Your **WhatsApp number (fixed at top)**
+* Your **Gmail ID (header or footer)**
+
+---
+
+### **5.2 Teacher Listing Page**
+
+**Purpose:** Browsing teachers easily
+
+Each teacher card shows:
+
+* Profile photo
+* Name
+* Subjects (Math / Physics)
+* Boards taught (badges)
+* Experience (years)
+* Starting charges (optional range)
+* “View Profile” button
+
+Optional filters (can be phase 2):
+
+* Board
+* Subject
+* Experience level
+
+---
+
+### **5.3 Teacher Profile Page (Very Important)**
+
+This is the **core of the product**.
+
+**Top Section (Above the fold):**
+
+* Teacher Name (large, bold)
+* Boards taught (clearly visible)
+* Subjects
+* Experience (years)
+* Charges (₹ / $ per hour)
+* “Contact on WhatsApp” button
+
+**Middle Section:**
+
+* Professional photo
+* Short bio (150–200 words)
+* Teaching approach
+* Grades taught
+
+**Video Section (Optional but recommended):**
+
+* Introductory video (self-uploaded)
+* Simple embedded player
+
+**Bottom Section:**
+
+* Qualifications
+* Certifications
+* Languages spoken
+* Availability (optional)
+
+---
+
+### **5.4 Teacher Dashboard (Login Area)**
+
+Each teacher can:
+
+* Log in securely
+* Edit:
+
+  * Name
+  * Bio
+  * Boards taught
+  * Experience
+  * Charges
+  * Subjects
+* Upload:
+
+  * Profile photo
+  * Intro video
+* Preview their public profile
+
+**Restrictions:**
+
+* Cannot edit other teachers’ data
+* Cannot change platform contact details
+
+---
+
+### **5.5 Admin Panel (Basic MVP)**
+
+Admin can:
+
+* Approve / deactivate teacher profiles
+* Edit global contact info (WhatsApp, email)
+* View list of all teachers
+* Reset teacher access if needed
+
+---
+
+## **6. Data Model (High-Level)**
+
+### **Teacher Table**
+
+* teacher_id
+* name
+* email
+* subjects
+* boards
+* experience_years
+* charges
+* bio
+* photo_url
+* video_url
+* qualifications
+* status (active/inactive)
+* created_at
+
+This can be implemented using:
+
+* Replit DB
+* PostgreSQL
+* Firebase (later)
+
+---
+
+## **7. UI / UX Principles**
+
+* White or very light background
+* One primary accent color
+* No clutter
+* No unnecessary animations
+* Mobile-first design
+* Buttons must be obvious and readable
+
+Think: **professional tutoring institute, not a startup landing page**
+
+---
+
+## **8. Non-Goals (For Now)**
+
+These are intentionally excluded from MVP:
+
+* Payments
+* Booking calendar
+* Chat system
+* Student login
+* Reviews / ratings
+
+(These can come later)
+
+---
+
+## **9. Technical Constraints**
+
+* Built entirely on **Replit**
+* Simple stack (HTML/CSS/JS or React)
+* Easy to maintain
+* Easy to scale teacher count
+
+---
+
+## **10. Success Criteria**
+
+The MVP is successful if:
+
+* A student can find a suitable teacher in under 30 seconds
+* Teachers can edit their profiles without help
+* Contact happens directly via WhatsApp
+* The site feels clean, credible, and academic
+
+---
+
+## **Next Step (Suggested)**
+
+If you want, next we can:
+
+1. Design **exact page wireframes**
+2. Define **teacher profile form fields**
+3. Create **folder structure for Replit**
+4. Write **database schema**
+5. Draft **homepage + profile UI text**
+
+Just tell me what you want to do next.
