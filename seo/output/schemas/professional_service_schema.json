@@ -1,0 +1,189 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ProfessionalService",
+      "@id": "https://phyfix.com/#professional-service",
+      "name": "PhyFix Tutoring Services",
+      "url": "https://phyfix.com",
+      "description": "PhyFix provides expert 1-on-1 online tutoring for Physics, Mathematics, Chemistry, and Biology. All levels from IGCSE through IB, A-Level, AP, and CBSE. Zero commission model with free demo sessions.",
+      "serviceType": "Educational Tutoring",
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "India"
+        },
+        {
+          "@type": "Country",
+          "name": "United Kingdom"
+        },
+        {
+          "@type": "Country",
+          "name": "United States"
+        },
+        {
+          "@type": "Country",
+          "name": "United Arab Emirates"
+        },
+        {
+          "@type": "Country",
+          "name": "Singapore"
+        },
+        {
+          "@type": "Country",
+          "name": "Canada"
+        },
+        {
+          "@type": "Country",
+          "name": "Australia"
+        }
+      ],
+      "provider": {
+        "@id": "https://phyfix.com/#organization"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Tutoring Rates",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "School Level Tutoring",
+            "price": "10",
+            "priceCurrency": "USD",
+            "description": "Physics & Maths for school-level students (IGCSE, GCSE, CBSE Classes 9-10)"
+          },
+          {
+            "@type": "Offer",
+            "name": "College Aspirant Tutoring",
+            "price": "15",
+            "priceCurrency": "USD",
+            "description": "IB, A-Level, AP, CBSE Classes 11-12, JEE & NEET preparation"
+          },
+          {
+            "@type": "Offer",
+            "name": "Free Demo Session",
+            "price": "0",
+            "priceCurrency": "USD",
+            "description": "Free 1-hour introductory class for all new students"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://phyfix.com/#ashish-pachar",
+      "name": "Ashish Pachar",
+      "jobTitle": "Senior Physics & Mathematics Tutor",
+      "description": "M.Sc Physics from Kurukshetra University. GATE Qualified. 15+ years teaching IB, IGCSE, A-Level, AP, CBSE Physics and Mathematics to international students.",
+      "url": "https://phyfix.com/about",
+      "sameAs": [
+        "https://www.teacheron.com/tutor/4Sih",
+        "https://www.instagram.com/phyfix1",
+        "https://x.com/Phyfix11",
+        "https://www.youtube.com/@phyfix"
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "degree",
+          "name": "M.Sc Physics",
+          "recognizedBy": {
+            "@type": "EducationalOrganization",
+            "name": "Kurukshetra University"
+          }
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "certification",
+          "name": "GATE Qualified — Physics"
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "certification",
+          "name": "CTET Qualified"
+        }
+      ],
+      "knowsAbout": [
+        "IB Physics",
+        "IGCSE Physics",
+        "A-Level Physics",
+        "AP Physics",
+        "CBSE Physics",
+        "IB Mathematics",
+        "IGCSE Mathematics",
+        "Calculus",
+        "Mechanics",
+        "Electromagnetism",
+        "Quantum Physics"
+      ]
+    },
+    {
+      "@type": "EducationalOrganization",
+      "@id": "https://phyfix.com/#organization",
+      "name": "PhyFix",
+      "url": "https://phyfix.com",
+      "logo": "https://phyfix.com/favicon.png",
+      "description": "PhyFix is a personalised 1-on-1 online tutoring platform for Physics, Mathematics, Chemistry, and Biology across international curricula including IB, IGCSE, A-Level, AP, and CBSE.",
+      "email": "ashishpachar27@gmail.com",
+      "telephone": "+91 8684901516",
+      "foundingDate": "2009",
+      "founder": {
+        "@id": "https://phyfix.com/#ashish-pachar"
+      },
+      "sameAs": [
+        "https://www.instagram.com/phyfix1",
+        "https://x.com/Phyfix11",
+        "https://www.youtube.com/@phyfix",
+        "https://www.facebook.com/Phyfix",
+        "https://www.linkedin.com/company/111519508"
+      ],
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "INR",
+        "description": "Free 1-hour demo class for new students"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "PhyFix Tutoring Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "IB Physics Tutoring"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "IGCSE Mathematics Tutoring"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "A-Level Physics Tutoring"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "AP Physics Tutoring"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "CBSE Class 12 Physics Tutoring"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

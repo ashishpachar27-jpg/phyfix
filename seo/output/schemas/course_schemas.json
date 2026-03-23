@@ -1,0 +1,303 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Course",
+      "name": "Advanced Physics Tutoring — IB, IGCSE, A-Level, AP",
+      "description": "Expert 1-on-1 online physics tutoring covering IB Physics (SL & HL), Cambridge IGCSE Physics (0625), A-Level Physics (AQA, Edexcel, OCR, Cambridge), and AP Physics 1, 2 & C. Personalised sessions, recorded classes, past-paper practice, and free demo class.",
+      "url": "https://phyfix.com/physics-classes",
+      "provider": {
+        "@id": "https://phyfix.com/#organization"
+      },
+      "instructor": {
+        "@id": "https://phyfix.com/#ashish-pachar"
+      },
+      "educationalLevel": "IB, IGCSE, A-Level, AP, CBSE",
+      "about": "Physics",
+      "syllabusSections": [
+        {
+          "@type": "Syllabus",
+          "name": "Mechanics: Kinematics, Newton's Laws, Momentum, Energy"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Waves & SHM: Superposition, Diffraction, Standing Waves"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Electricity & Magnetism: Circuits, Fields, Induction"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Thermal Physics: Gas Laws, Thermodynamics"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Atomic & Nuclear Physics: Radioactivity, Binding Energy"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Fields: Gravitational, Electric, Magnetic (HL/A2)"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "INR",
+        "description": "Free demo class available"
+      },
+      "hasCourseInstance": {
+        "@type": "CourseInstance",
+        "courseMode": "online",
+        "courseWorkload": "P1H",
+        "location": {
+          "@type": "VirtualLocation",
+          "url": "https://zoom.us"
+        }
+      }
+    },
+    {
+      "@type": "Course",
+      "name": "Advanced Mathematics Tutoring — IB, IGCSE, A-Level, AP Calculus",
+      "description": "Expert 1-on-1 online mathematics tutoring for IB Maths AA & AI (SL & HL), Cambridge IGCSE Maths (0580), A-Level & AS-Level Maths, AP Calculus AB & BC, and CBSE Class 11 & 12 Mathematics. All sessions personalised, recorded, and notes-shared.",
+      "url": "https://phyfix.com/maths-classes",
+      "provider": {
+        "@id": "https://phyfix.com/#organization"
+      },
+      "instructor": {
+        "@id": "https://phyfix.com/#ashish-pachar"
+      },
+      "educationalLevel": "IB, IGCSE, A-Level, AP, CBSE",
+      "about": "Mathematics",
+      "syllabusSections": [
+        {
+          "@type": "Syllabus",
+          "name": "Algebra: Functions, Complex Numbers, Sequences, Proof by Induction"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Calculus: Differentiation, Integration, Differential Equations, Series"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Trigonometry: Identities, Sine/Cosine Rule, 3D Trigonometry"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Statistics: Probability, Distributions, Hypothesis Testing"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Geometry: Vectors, 3D Geometry, Circle Theorems"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "INR",
+        "description": "Free demo class available"
+      },
+      "hasCourseInstance": {
+        "@type": "CourseInstance",
+        "courseMode": "online",
+        "courseWorkload": "P1H",
+        "location": {
+          "@type": "VirtualLocation",
+          "url": "https://zoom.us"
+        }
+      }
+    },
+    {
+      "@type": "Course",
+      "name": "IB Physics HL Mechanics — Expert Tutoring",
+      "description": "Specialist 1-on-1 IB Physics tutoring for Mechanics (Topic 2 & 6 HL). Covers kinematics, Newton's laws, circular motion, and simple harmonic motion with past-paper focus.",
+      "url": "https://phyfix.com/topics/ib-physics-mechanics-tutor",
+      "provider": {
+        "@id": "https://phyfix.com/#organization"
+      },
+      "instructor": {
+        "@id": "https://phyfix.com/#ashish-pachar"
+      },
+      "educationalLevel": "IB",
+      "about": "Physics",
+      "syllabusSections": [
+        {
+          "@type": "Syllabus",
+          "name": "Kinematics"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Newton's Laws"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Circular Motion"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Simple Harmonic Motion"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "INR",
+        "description": "Free demo class available"
+      },
+      "hasCourseInstance": {
+        "@type": "CourseInstance",
+        "courseMode": "online",
+        "courseWorkload": "P1H",
+        "location": {
+          "@type": "VirtualLocation",
+          "url": "https://zoom.us"
+        }
+      }
+    },
+    {
+      "@type": "Course",
+      "name": "AP Physics 1 Kinematics — Expert Tutoring",
+      "description": "Specialist AP Physics 1 Kinematics tutoring for College Board exam prep. Covers 1D and 2D motion, velocity-time graphs, and projectile motion with FRQ practice.",
+      "url": "https://phyfix.com/topics/ap-physics-1-kinematics-tutor",
+      "provider": {
+        "@id": "https://phyfix.com/#organization"
+      },
+      "instructor": {
+        "@id": "https://phyfix.com/#ashish-pachar"
+      },
+      "educationalLevel": "AP",
+      "about": "Physics",
+      "syllabusSections": [
+        {
+          "@type": "Syllabus",
+          "name": "1D Motion"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Projectile Motion"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Velocity-Time Graphs"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "FRQ Practice"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "INR",
+        "description": "Free demo class available"
+      },
+      "hasCourseInstance": {
+        "@type": "CourseInstance",
+        "courseMode": "online",
+        "courseWorkload": "P1H",
+        "location": {
+          "@type": "VirtualLocation",
+          "url": "https://zoom.us"
+        }
+      }
+    },
+    {
+      "@type": "Course",
+      "name": "IGCSE Mathematics Algebra — Expert Tutoring",
+      "description": "Cambridge IGCSE Maths (0580) Algebra specialist tutoring. Covers linear equations, quadratics, factorisation, simultaneous equations and algebraic fractions. Grade 8/9 target.",
+      "url": "https://phyfix.com/topics/igcse-maths-algebra-tutor",
+      "provider": {
+        "@id": "https://phyfix.com/#organization"
+      },
+      "instructor": {
+        "@id": "https://phyfix.com/#ashish-pachar"
+      },
+      "educationalLevel": "IGCSE",
+      "about": "Mathematics",
+      "syllabusSections": [
+        {
+          "@type": "Syllabus",
+          "name": "Linear Equations"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Quadratic Equations"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Factorisation"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Simultaneous Equations"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "INR",
+        "description": "Free demo class available"
+      },
+      "hasCourseInstance": {
+        "@type": "CourseInstance",
+        "courseMode": "online",
+        "courseWorkload": "P1H",
+        "location": {
+          "@type": "VirtualLocation",
+          "url": "https://zoom.us"
+        }
+      }
+    },
+    {
+      "@type": "Course",
+      "name": "CBSE Class 12 Physics — Expert Tutoring",
+      "description": "Expert CBSE Class 12 Physics tutoring covering the full board syllabus plus JEE/NEET preparation. Electrostatics, optics, modern physics, and more.",
+      "url": "https://phyfix.com/topics/cbse-physics-class-12-tutor",
+      "provider": {
+        "@id": "https://phyfix.com/#organization"
+      },
+      "instructor": {
+        "@id": "https://phyfix.com/#ashish-pachar"
+      },
+      "educationalLevel": "CBSE",
+      "about": "Physics",
+      "syllabusSections": [
+        {
+          "@type": "Syllabus",
+          "name": "Electrostatics"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Current Electricity"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Optics"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Modern Physics"
+        },
+        {
+          "@type": "Syllabus",
+          "name": "Semiconductors"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "INR",
+        "description": "Free demo class available"
+      },
+      "hasCourseInstance": {
+        "@type": "CourseInstance",
+        "courseMode": "online",
+        "courseWorkload": "P1H",
+        "location": {
+          "@type": "VirtualLocation",
+          "url": "https://zoom.us"
+        }
+      }
+    }
+  ]
+}

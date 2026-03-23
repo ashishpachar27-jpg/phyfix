@@ -1,0 +1,276 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "EducationalOrganization",
+      "@id": "https://phyfix.com/#organization",
+      "name": "PhyFix",
+      "url": "https://phyfix.com",
+      "logo": "https://phyfix.com/favicon.png",
+      "description": "PhyFix is a personalised 1-on-1 online tutoring platform for Physics, Mathematics, Chemistry, and Biology across international curricula including IB, IGCSE, A-Level, AP, and CBSE.",
+      "email": "ashishpachar27@gmail.com",
+      "telephone": "+91 8684901516",
+      "foundingDate": "2009",
+      "founder": {
+        "@id": "https://phyfix.com/#ashish-pachar"
+      },
+      "sameAs": [
+        "https://www.instagram.com/phyfix1",
+        "https://x.com/Phyfix11",
+        "https://www.youtube.com/@phyfix",
+        "https://www.facebook.com/Phyfix",
+        "https://www.linkedin.com/company/111519508"
+      ],
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "INR",
+        "description": "Free 1-hour demo class for new students"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "PhyFix Tutoring Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "IB Physics Tutoring"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "IGCSE Mathematics Tutoring"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "A-Level Physics Tutoring"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "AP Physics Tutoring"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "CBSE Class 12 Physics Tutoring"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://phyfix.com/#ashish-pachar",
+      "name": "Ashish Pachar",
+      "jobTitle": "Senior Physics & Mathematics Tutor",
+      "description": "M.Sc Physics from Kurukshetra University. GATE Qualified. 15+ years teaching IB, IGCSE, A-Level, AP, CBSE Physics and Mathematics to international students.",
+      "url": "https://phyfix.com/about",
+      "sameAs": [
+        "https://www.teacheron.com/tutor/4Sih",
+        "https://www.instagram.com/phyfix1",
+        "https://x.com/Phyfix11",
+        "https://www.youtube.com/@phyfix"
+      ],
+      "hasCredential": [
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "degree",
+          "name": "M.Sc Physics",
+          "recognizedBy": {
+            "@type": "EducationalOrganization",
+            "name": "Kurukshetra University"
+          }
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "certification",
+          "name": "GATE Qualified — Physics"
+        },
+        {
+          "@type": "EducationalOccupationalCredential",
+          "credentialCategory": "certification",
+          "name": "CTET Qualified"
+        }
+      ],
+      "knowsAbout": [
+        "IB Physics",
+        "IGCSE Physics",
+        "A-Level Physics",
+        "AP Physics",
+        "CBSE Physics",
+        "IB Mathematics",
+        "IGCSE Mathematics",
+        "Calculus",
+        "Mechanics",
+        "Electromagnetism",
+        "Quantum Physics"
+      ]
+    },
+    {
+      "@type": "ProfessionalService",
+      "@id": "https://phyfix.com/#professional-service",
+      "name": "PhyFix Tutoring Services",
+      "url": "https://phyfix.com",
+      "description": "PhyFix provides expert 1-on-1 online tutoring for Physics, Mathematics, Chemistry, and Biology. All levels from IGCSE through IB, A-Level, AP, and CBSE. Zero commission model with free demo sessions.",
+      "serviceType": "Educational Tutoring",
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "India"
+        },
+        {
+          "@type": "Country",
+          "name": "United Kingdom"
+        },
+        {
+          "@type": "Country",
+          "name": "United States"
+        },
+        {
+          "@type": "Country",
+          "name": "United Arab Emirates"
+        },
+        {
+          "@type": "Country",
+          "name": "Singapore"
+        },
+        {
+          "@type": "Country",
+          "name": "Canada"
+        },
+        {
+          "@type": "Country",
+          "name": "Australia"
+        }
+      ],
+      "provider": {
+        "@id": "https://phyfix.com/#organization"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Tutoring Rates",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "School Level Tutoring",
+            "price": "10",
+            "priceCurrency": "USD",
+            "description": "Physics & Maths for school-level students (IGCSE, GCSE, CBSE Classes 9-10)"
+          },
+          {
+            "@type": "Offer",
+            "name": "College Aspirant Tutoring",
+            "price": "15",
+            "priceCurrency": "USD",
+            "description": "IB, A-Level, AP, CBSE Classes 11-12, JEE & NEET preparation"
+          },
+          {
+            "@type": "Offer",
+            "name": "Free Demo Session",
+            "price": "0",
+            "priceCurrency": "USD",
+            "description": "Free 1-hour introductory class for all new students"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://phyfix.com/#website",
+      "url": "https://phyfix.com",
+      "name": "PhyFix",
+      "description": "Expert online Physics and Maths tutoring for IB, IGCSE, A-Level, AP and CBSE students.",
+      "publisher": {
+        "@id": "https://phyfix.com/#organization"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://phyfix.com/teachers?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I find a good online physics tutor?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "PhyFix offers verified expert physics tutors with 4–15 years of experience across IB, IGCSE, A-Level, AP, and CBSE. You can browse tutor profiles, read ratings, and book a free demo class before committing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does online physics tutoring cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "PhyFix physics tutoring rates range from ₹500 to ₹2,000 per hour depending on the tutor and level. Students pay tutors directly — PhyFix charges zero commission. School-level starts at $10/hr."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get a free trial physics class?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Every new PhyFix student gets a free 1-hour demo class with no commitment and no credit card required. Book via WhatsApp at +91 8684901516."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which physics boards do PhyFix tutors cover?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "PhyFix tutors cover IB Physics (SL & HL), Cambridge IGCSE Physics (0625), A-Level Physics (AQA, Edexcel, OCR, Cambridge), AP Physics 1, 2 & C, CBSE Class 9–12 Physics, ICSE, and JEE/NEET Physics."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I find a good online maths tutor?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "PhyFix offers verified maths tutors with expertise in IB Maths AA & AI, IGCSE Maths (0580), A-Level Maths, AP Calculus AB & BC, and CBSE Mathematics. Book a free demo class to find the right match."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much does online maths tutoring cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "PhyFix maths tutoring rates range from ₹500 to ₹3,000 per hour depending on tutor and level. Zero commission — you pay the tutor directly. Starting from $10/hr for school level."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get help with IB Maths IA?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. PhyFix tutors specialise in IB Mathematics Internal Assessment support, helping students choose appropriate topics, structure their exploration, and achieve Level 4 scores."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer IGCSE Maths tutoring?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. PhyFix offers expert Cambridge IGCSE Maths (0580) tutoring for both Core and Extended levels, with past-paper focus and grade 8/9 strategies."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I find a good online physics tutor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PhyFix offers verified expert physics tutors with 4–15 years of experience across IB, IGCSE, A-Level, AP, and CBSE. You can browse tutor profiles, read ratings, and book a free demo class before committing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does online physics tutoring cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PhyFix physics tutoring rates range from ₹500 to ₹2,000 per hour depending on the tutor and level. Students pay tutors directly — PhyFix charges zero commission. School-level starts at $10/hr."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get a free trial physics class?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Every new PhyFix student gets a free 1-hour demo class with no commitment and no credit card required. Book via WhatsApp at +91 8684901516."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which physics boards do PhyFix tutors cover?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PhyFix tutors cover IB Physics (SL & HL), Cambridge IGCSE Physics (0625), A-Level Physics (AQA, Edexcel, OCR, Cambridge), AP Physics 1, 2 & C, CBSE Class 9–12 Physics, ICSE, and JEE/NEET Physics."
+      }
+    }
+  ]
+}

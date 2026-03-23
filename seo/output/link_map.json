@@ -1,0 +1,165 @@
+{
+  "orphans": [
+    "/",
+    "/physics-classes",
+    "/maths-classes",
+    "/ib-physics-tutor",
+    "/igcse-math-tutor",
+    "/a-level-physics-tutor",
+    "/online-math-tutor",
+    "/topics/ib-physics-thermal-tutor"
+  ],
+  "linking_opportunities": [
+    {
+      "target": "/topics/igcse-maths-algebra-tutor",
+      "anchor": "simultaneous equations help",
+      "reason": "IGCSE Maths Algebra page covers simultaneous equations \u2014 high-value query",
+      "suggested_sources": [
+        "/maths-classes",
+        "/igcse-math-tutor",
+        "/topics/igcse-maths-geometry-tutor"
+      ]
+    },
+    {
+      "target": "/topics/ap-physics-1-energy-tutor",
+      "anchor": "physics momentum tutor",
+      "reason": "AP Physics Energy & Momentum page \u2014 directly targets 'physics momentum' query",
+      "suggested_sources": [
+        "/physics-classes",
+        "/topics/ap-physics-1-dynamics-tutor",
+        "/topics/ap-physics-1-kinematics-tutor"
+      ]
+    },
+    {
+      "target": "/topics/igcse-maths-statistics-tutor",
+      "anchor": "IGCSE probability help",
+      "reason": "IGCSE Stats & Probability page covers probability trees \u2014 frequently searched",
+      "suggested_sources": [
+        "/maths-classes",
+        "/igcse-math-tutor",
+        "/topics/igcse-maths-algebra-tutor"
+      ]
+    },
+    {
+      "target": "/topics/ib-physics-mechanics-tutor",
+      "anchor": "IB physics mechanics tutor",
+      "reason": "IB Physics Mechanics is the most searched IB Physics query globally",
+      "suggested_sources": [
+        "/ib-physics-tutor",
+        "/physics-classes",
+        "/topics/ib-physics-waves-tutor"
+      ]
+    },
+    {
+      "target": "/topics/a-level-physics-fields-tutor",
+      "anchor": "A-Level physics fields help",
+      "reason": "Fields is the hardest A-Level topic \u2014 high search intent + low competition",
+      "suggested_sources": [
+        "/a-level-physics-tutor",
+        "/physics-classes",
+        "/topics/a-level-physics-electricity-tutor"
+      ]
+    },
+    {
+      "target": "/topics/cbse-maths-class-12-tutor",
+      "anchor": "CBSE Class 12 maths tutor",
+      "reason": "CBSE Class 12 Maths is one of the highest-volume search terms in India",
+      "suggested_sources": [
+        "/maths-classes",
+        "/topics/cbse-physics-class-12-tutor"
+      ]
+    },
+    {
+      "target": "/topics/ap-calculus-ab-tutor",
+      "anchor": "AP Calculus AB tutor",
+      "reason": "AP Calculus AB is the most enrolled AP course in the US \u2014 very high search volume",
+      "suggested_sources": [
+        "/maths-classes",
+        "/topics/ap-calculus-bc-tutor",
+        "/online-math-tutor"
+      ]
+    },
+    {
+      "target": "/topics/ib-maths-aa-hl-calculus-tutor",
+      "anchor": "IB Maths HL calculus help",
+      "reason": "IB Maths HL Calculus is the #1 struggled topic for IB students \u2014 very high intent",
+      "suggested_sources": [
+        "/maths-classes",
+        "/ib-physics-tutor",
+        "/topics/ib-maths-aa-sl-tutor"
+      ]
+    },
+    {
+      "target": "/free-demo",
+      "anchor": "book a free physics demo class",
+      "reason": "Free demo page is the conversion page \u2014 needs more inbound links from content pages",
+      "suggested_sources": [
+        "/blog",
+        "/resources",
+        "/practice"
+      ]
+    },
+    {
+      "target": "/blog",
+      "anchor": "physics and maths study tips",
+      "reason": "Blog drives organic traffic \u2014 should be linked from more pages",
+      "suggested_sources": [
+        "/about",
+        "/resources",
+        "/teachers"
+      ]
+    }
+  ],
+  "topical_clusters": {
+    "\u269b IB Physics": [
+      "/ib-physics-tutor",
+      "/topics/ib-physics-mechanics-tutor",
+      "/topics/ib-physics-waves-tutor",
+      "/topics/ib-physics-electricity-tutor",
+      "/topics/ib-physics-fields-tutor",
+      "/topics/ib-physics-atomic-tutor",
+      "/topics/ib-physics-thermal-tutor"
+    ],
+    "\ud83d\udcd0 IGCSE Physics": [
+      "/topics/igcse-physics-forces-motion-tutor",
+      "/topics/igcse-physics-energy-tutor",
+      "/topics/igcse-physics-electricity-tutor",
+      "/topics/igcse-physics-waves-tutor"
+    ],
+    "\ud83d\udd2c A-Level Physics": [
+      "/a-level-physics-tutor",
+      "/topics/a-level-physics-mechanics-tutor",
+      "/topics/a-level-physics-electricity-tutor",
+      "/topics/a-level-physics-waves-tutor",
+      "/topics/a-level-physics-fields-tutor"
+    ],
+    "\ud83d\ude80 AP Physics": [
+      "/topics/ap-physics-1-kinematics-tutor",
+      "/topics/ap-physics-1-dynamics-tutor",
+      "/topics/ap-physics-1-energy-tutor",
+      "/topics/ap-physics-1-waves-tutor"
+    ],
+    "\u222b IB Maths": [
+      "/topics/ib-maths-aa-hl-calculus-tutor",
+      "/topics/ib-maths-aa-hl-algebra-tutor",
+      "/topics/ib-maths-aa-sl-tutor",
+      "/topics/ib-maths-ai-sl-tutor"
+    ],
+    "\ud83d\udcca IGCSE Maths": [
+      "/topics/igcse-maths-algebra-tutor",
+      "/topics/igcse-maths-geometry-tutor",
+      "/topics/igcse-maths-statistics-tutor",
+      "/topics/igcse-maths-number-tutor"
+    ],
+    "\u2202 AP Calculus": [
+      "/topics/ap-calculus-ab-tutor",
+      "/topics/ap-calculus-bc-tutor"
+    ],
+    "\ud83c\uddee\ud83c\uddf3 CBSE": [
+      "/topics/cbse-physics-class-12-tutor",
+      "/topics/cbse-physics-class-11-tutor",
+      "/topics/cbse-maths-class-12-tutor",
+      "/topics/cbse-maths-class-11-tutor"
+    ]
+  }
+}
